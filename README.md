@@ -47,7 +47,7 @@ Tests:
 ```sh
 $ npm run test:unit // roda apenas testes unitarios
 $ npm run test:integration // roda apenas os test de integração
-$ npm run test // roda todos os test tanto integration quanto unit
+$ npm run test // roda todos os testes tanto integration quanto unit
 $ npm run test:ci // roda todos os tentes monstrando a cobertura total
 ```
 
